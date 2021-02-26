@@ -1,0 +1,2 @@
+export("lavail", "lperfm", "lqlty", "ole", "saa", "sam", "spp")
+importFrom("graphics", "barplot", "axis", "legend", "par", "text")
